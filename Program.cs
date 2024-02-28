@@ -42,3 +42,31 @@
 // MainAkermann(4, 8);
 
 
+
+
+// Задача 3: Задайте произвольный массив. 
+// Выведете его элементы, начиная с конца. Использовать рекурсию, не использовать циклы.
+
+int[] array = {2, 34, 54, 32, 66, 54};
+j = array.Length - 1;
+void PrintRevertArray(int[] array, int j)
+{
+    if (j == 0)
+    {
+        Console.Write(array[j]);
+        return;
+    }
+    for (int i = 0; i < array.Length / 2; i++)
+    {
+        temp = numbers[i];
+        numbers[i] = numbers[array.Length - 1 - i];
+        numbers[array.Length - 1 - i] = temp;
+    }
+    Console.Write("Перевернутый массив: ");
+    foreach (int number in numbers)
+    {
+        Console.Write(number + " ");
+    }
+}
+PrintRevertArray();
+// по последней задача не понял
