@@ -12,5 +12,14 @@
 //     Console.Write(start + " ");
 //     ShowNumbers(start + 1, end);
 // }
-// ShowNumbers(4, 10);
+// Console.WriteLine($"Укажите число M: ");
+// int M = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine($"Укажите число N: ");
+// int N = Convert.ToInt32(Console.ReadLine());
+// ShowNumbers(M, N);
 
+
+
+
+// Задача 2: Напишите программу вычисления функции Аккермана с помощью рекурсии. 
+// Даны два неотрицательных числа m и n.
