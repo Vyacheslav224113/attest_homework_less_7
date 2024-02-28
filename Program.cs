@@ -23,3 +23,22 @@
 
 // Задача 2: Напишите программу вычисления функции Аккермана с помощью рекурсии. 
 // Даны два неотрицательных числа m и n.
+
+// int MainAkermann(int m, int n)
+// {
+//     if (n == 0)
+//     {
+//         return m + 1;
+//     }
+//     else
+//     {
+//         if (m == 0)
+//         {
+//             return MainAkermann(m - 1, 1);
+//         }
+//         return MainAkermann(m - 1, MainAkermann(m, n - 1));
+//     }
+// }
+// MainAkermann(4, 8);
+
+
