@@ -1,0 +1,15 @@
+C:\Homework\homework_attest\bin\Debug\net6.0\homework_attest.exe
+C:\Homework\homework_attest\bin\Debug\net6.0\homework_attest.deps.json
+C:\Homework\homework_attest\bin\Debug\net6.0\homework_attest.runtimeconfig.json
+C:\Homework\homework_attest\bin\Debug\net6.0\homework_attest.dll
+C:\Homework\homework_attest\bin\Debug\net6.0\homework_attest.pdb
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.csproj.AssemblyReference.cache
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.AssemblyInfoInputs.cache
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.AssemblyInfo.cs
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.csproj.CoreCompileInputs.cache
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.dll
+C:\Homework\homework_attest\obj\Debug\net6.0\refint\homework_attest.dll
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.pdb
+C:\Homework\homework_attest\obj\Debug\net6.0\homework_attest.genruntimeconfig.cache
+C:\Homework\homework_attest\obj\Debug\net6.0\ref\homework_attest.dll
